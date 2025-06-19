@@ -49,7 +49,7 @@ To set up the project locally, follow these steps:
 - **python-dotenv** (For managing API keys)
 - **Other dependencies listed in requirements.txt** 
 
--Sample Output:
+-**Sample Output**:
 
 **Uploaded Image**: chest_scan.jpg
 **Selected Type**: X-ray
